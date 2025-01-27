@@ -1,4 +1,4 @@
-# [kamranahmed.info](kamranahmed.info)
+# [rabbit-world.github.io/blog](https://rabbit-world.github.io/blog)
 My personal blog created using [github-pages-blog-action](https://github.com/kamranahmedse/github-pages-blog-action)
 
 ## Setting up your Blog
